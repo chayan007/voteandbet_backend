@@ -1,0 +1,1 @@
+c:\laragon-py\bin\python\python-3.6.1
